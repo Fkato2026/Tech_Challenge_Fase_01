@@ -133,6 +133,9 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 - Fabio Eiji Kato
 - (Adicionar demais integrantes)
+- (Adicionar demais integrantes)
+- (Adicionar demais integrantes)
+- (Adicionar demais integrantes)
 
 ---
 
