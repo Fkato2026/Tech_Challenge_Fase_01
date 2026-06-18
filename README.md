@@ -126,7 +126,7 @@ TECH_CHALLENGE_FASE_01
 ---
 ## ▶️ Assista o vídeo da análise do projeto
 
-**https://youtu.be/T6o3eLhabjA?si=thnYCdXEmR4_yVIO** 
+https://youtu.be/T6o3eLhabjA?si=thnYCdXEmR4_yVIO
 
 
 ## 📚 Base de Dados
@@ -141,11 +141,12 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **FIAP Pós-Tech em Data Analytics – Grupo 10**
 
+- Alessandra da Silva Ramos
 - Beatriz Rosa Pizani
 - Fabio Eiji Kato
 - Pamela Vilar Coelho
 - ⁠Vinícius Prado Costa
-- (Adicionar demais integrantes)
+
 
 ---
 
