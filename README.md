@@ -73,12 +73,15 @@ Os resultados evidenciam a relação direta entre eficiência logística e satis
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3
+- Python 3.12.10
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Plotly
+- json
+- urllib.request import urlopen
+- locale
 - Jupyter Notebook
 
 ---
@@ -102,8 +105,11 @@ TECH_CHALLENGE_FASE_01
 ├── Notebook/
 │   └── tech_challenge_fase_01.ipynb
 │
+├── Relatório
+│   └── Relatório de conclusão da análise  
+│
 ├── .gitignore
-├── requirements.txt 
+│
 └── README.md
 ```
 
@@ -118,6 +124,10 @@ TECH_CHALLENGE_FASE_01
 - Regiões mais distantes representam desafios operacionais importantes.
 
 ---
+## ▶️ Assista o vídeo da análise do projeto
+
+**https://youtu.be/T6o3eLhabjA?si=thnYCdXEmR4_yVIO** 
+
 
 ## 📚 Base de Dados
 
@@ -131,10 +141,10 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **FIAP Pós-Tech em Data Analytics – Grupo 10**
 
+- Beatriz Rosa Pizani
 - Fabio Eiji Kato
-- (Adicionar demais integrantes)
-- (Adicionar demais integrantes)
-- (Adicionar demais integrantes)
+- Pamela Vilar Coelho
+- ⁠Vinícius Prado Costa
 - (Adicionar demais integrantes)
 
 ---
