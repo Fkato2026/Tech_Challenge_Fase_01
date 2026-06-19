@@ -82,6 +82,8 @@ Os resultados evidenciam a relação direta entre eficiência logística e satis
 - json
 - urllib.request import urlopen
 - locale
+- matplotlib.colors 
+- LinearSegmentedColormap
 - Jupyter Notebook
 
 ---
